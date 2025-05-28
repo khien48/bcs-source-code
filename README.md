@@ -15,7 +15,7 @@ A web-based portal for admin-level operations and controls.
 git clone https://github.com/NoobKodak/bcs-admin-panel.git
 cd bcs-admin-panel
 
-# Install with legacy peer dependencies to satisfy react-day-picker
+# Install dependencies with legacy peer dependencies to satisfy react-day-picker
 npm install --legacy-peer-deps
 
 # Then run the regular install
