@@ -20,20 +20,36 @@ npm install --legacy-peer-deps
 
 # Then run the regular install
 npm install
+# Then start the server
+npm run dev
 
+For bsc-website folder
 -----
 cd bsc-website
+
 # Then run the regular install
 npm install
 
+# Then start the server
+npm run dev
+
+For tenant-mobile-app-main folder
 -----
 cd tenant-mobile-app-main
+
 # Then run the regular install
 npm install
 
+# Then start the server
+npm run dev
+-----
+
+For terminal-patrol-app folder
 -----
 cd terminal-patrol-app
+
 # Then run the regular install
 npm install
 
-
+# Then start the server
+npm run dev
